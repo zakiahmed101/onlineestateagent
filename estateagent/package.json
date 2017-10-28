@@ -25,6 +25,7 @@
     "@angular/platform-browser-dynamic": "^4.2.4",
     "@angular/router": "^4.2.4",
     "core-js": "^2.4.1",
+    "express": "^4.16.2",
     "rxjs": "^5.4.2",
     "zone.js": "^0.8.14"
   },
@@ -48,6 +49,6 @@
     "typescript": "~2.3.3"
   },"engines": {
     "node": "6.11.5",
-    "npm": "3.10.10"
+    "yarn": "1.2.1"
   }
 }
